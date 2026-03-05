@@ -1,4 +1,4 @@
-﻿本课时我们主要学习 Python 的测试框架，并带你做一些相关的练习。`r`n`r`n
+本课时我们主要学习 Python 的测试框架，并带你做一些相关的练习。`r`n`r`n
 `r`n# unittest`r`n`r`n`r`n
 首先，我们来看下 Python 中标准的测试库 unittest，unittest 是 Python 自带的一个单元测试框架，unittest 中包含了对一些常规的测试用例体系性的支持，主要包括：`r`n`r`n
 
